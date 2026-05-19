@@ -9,7 +9,7 @@ Instead of manually searching through spreadsheets and documentation to find rec
 The agent draws from two knowledge sources simultaneously:
 
 - **Test cases** (`ORC_Test_Cases_Detailed.xlsx`) — step-by-step test procedures covering modules like Job Requisition, Candidate Application, Candidate Selection Process, Job Offer, and Hire
-- **Transcript knowledge base** (`orc_transcript_knowledge.txt`) — business rules and configuration guidelines covering recruiting types, hiring team roles, posting rules, approval workflows, compensation, and more
+- **Transcript knowledge base** (`orc_knowledge_base.txt`) — business rules and configuration guidelines covering recruiting types, hiring team roles, posting rules, approval workflows, compensation, and more
 
 ## How it works
 
