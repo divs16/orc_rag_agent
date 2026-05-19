@@ -89,7 +89,7 @@ Type your question (or 'quit' to exit)
 You: What recruiting type should I use for a contractor in Norway?
 
 Agent: For a contractor in Norway, you should use the "FT Contractor" recruiting type.
-       Norway is a country where InfoBlocks does not have operations but does business
+       Norway is a country where "company" does not have operations but does business
        on a conditional basis (Knowledge Base | Recruiting Types). ...
 
 You: quit
