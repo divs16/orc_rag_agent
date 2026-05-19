@@ -86,7 +86,7 @@ Embeddings cached.
 Oracle Recruiting Cloud RAG Agent
 Type your question (or 'quit' to exit)
 
-You: What recruiting type should I use for a contractor in Norway?
+You: What recruiting type should I use for a contractor in Oman?
 
 Agent: For a contractor in Oman, you should use the "FT Contractor" recruiting type.
        Oman is a country where XYZ does not have operations but does business
