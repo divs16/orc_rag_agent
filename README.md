@@ -1,6 +1,6 @@
 # ORC RAG Agent
 
-A command-line RAG (Retrieval-Augmented Generation) agent that answers natural language questions about Oracle Recruiting Cloud (ORC) workflows. It combines knowledge from structured test cases and a transcript-based knowledge base, using Google Gemini for both embeddings and response generation.
+A command-line RAG (Retrieval-Augmented Generation) agent that answers natural language questions about Oracle Recruiting Cloud (ORC) workflows. It combines knowledge from structured test cases and a ERP knowledge base, using Google Gemini for both embeddings and response generation.
 
 ## What it does
 
