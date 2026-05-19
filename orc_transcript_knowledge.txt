@@ -2,9 +2,9 @@ ORACLE RECRUITING CLOUD - KNOWLEDGE BASE
 
 === RECRUITING TYPES ===
 
-RULE: Use "Professional" recruiting type when hiring in countries where InfoBlocks has operations (primarily US and India).
+RULE: Use "Professional" recruiting type when hiring in countries where InfoBlox has operations (primarily US and India).
 
-RULE: Use "FT Contractor" recruiting type when hiring in countries where InfoBlocks does NOT have operations but does business on a conditional basis. Examples include Norway and Switzerland.
+RULE: Use "FT Contractor" recruiting type when hiring in countries where InfoBlox does NOT have operations but does business on a conditional basis. Examples include Norway and Switzerland.
 
 RULE: Use "Confidential" recruiting type for senior and executive roles such as CFO, Chief People Officer, or other senior leadership positions.
 
