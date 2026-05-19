@@ -62,8 +62,8 @@ Make sure these two files are in the same folder as `rag_agent.py`:
 ```
 orc-rag-agent/
 ├── rag_agent.py
-├── ORC_Test_Cases_Detailed(Sheet1).xlsx
-├── orc_transcript_knowledge.txt
+├── Test_Cases_.xlsx 
+├── your_company_knowledge_base.txt
 └── .env
 ```
 
@@ -78,7 +78,7 @@ On first run, the agent reads both source files, generates embeddings (~5 second
 ```
 Reading ORC_Test_Cases_Detailed(Sheet1).xlsx...
   29 test cases loaded.
-Reading orc_transcript_knowledge.txt...
+Reading orc_knowledge.txt...
   11 knowledge base sections loaded.
 Generating embeddings for 40 total chunks...
 Embeddings cached.
@@ -88,8 +88,8 @@ Type your question (or 'quit' to exit)
 
 You: What recruiting type should I use for a contractor in Norway?
 
-Agent: For a contractor in Norway, you should use the "FT Contractor" recruiting type.
-       Norway is a country where "company" does not have operations but does business
+Agent: For a contractor in Oman, you should use the "FT Contractor" recruiting type.
+       Oman is a country where XYZ does not have operations but does business
        on a conditional basis (Knowledge Base | Recruiting Types). ...
 
 You: quit
